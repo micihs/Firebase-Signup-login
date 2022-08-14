@@ -8,3 +8,6 @@ This a Pre-Built Singup and Login Example for Teaching Examples/ Incorporation i
 - yarn ios / yarn android / yarn web
 
 Edit and add to the code as you please!
+
+#Future Improvements
+- Expand the Firebase API utilities
